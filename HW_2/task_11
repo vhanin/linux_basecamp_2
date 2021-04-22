@@ -1,0 +1,1 @@
+find /etc -type d | tee -a task_11.output

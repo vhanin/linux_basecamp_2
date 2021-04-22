@@ -1,0 +1,1 @@
+cd /tmp && rm -r other_test_dir_a other_test_dir_1 test_dir_a test_dir_b test_dir_c test_dir_9 test_dir_d file_is_not_strange
