@@ -1,0 +1,1 @@
+echo "cutting text from input" | cut -b 16

@@ -1,0 +1,1 @@
+find ./etc -name "*" | tree task_11.output

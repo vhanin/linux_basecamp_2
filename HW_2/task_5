@@ -1,0 +1,1 @@
+cp other_test_dir_{a,b,c,d,9} /tmp
