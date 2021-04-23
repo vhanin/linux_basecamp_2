@@ -1,1 +1,2 @@
-find ./etc -name "*.d" -exec echo Directory \; -print -exec echo is found! \;
+find ./etc -name "*.d" -exec echo Directory {} is found! \; 
+
