@@ -1,1 +1,1 @@
-cat | head -c 16 > task_9.output
+echo "some long text from standard input" | head -c 16 > task_9.output
