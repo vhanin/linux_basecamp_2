@@ -1,0 +1,1 @@
+rm -r /tmp/other_test_dir_{1,a} /tmp/test_dir_{a,b,c,d,9}
