@@ -1,1 +1,1 @@
-find /etc/ -type d -name "*.d" -printf "Directory %P is found! \n"
+find /etc/ -name "*.d" -printf "Directory %P is found! \n"
