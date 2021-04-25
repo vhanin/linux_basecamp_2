@@ -1,1 +1,1 @@
-find /etc -type d | tee -a task_11.output
+ls /etc -1 | tee -a task_11.output

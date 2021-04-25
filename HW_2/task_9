@@ -1,1 +1,1 @@
-head -c 16 test.txt
+head -c 16 > test.txt
