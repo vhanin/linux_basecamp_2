@@ -1,1 +1,1 @@
-head -c 16 > test.txt
+cat | head -c 16
