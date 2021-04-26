@@ -1,0 +1,1 @@
+if [ -n "$VAR" ]; then echo $VAR; else VAR="My first shell variable" && echo $VAR; fi
