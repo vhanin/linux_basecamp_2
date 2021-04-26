@@ -1,0 +1,1 @@
+printf " Username: %s\n Hostname: %s\n" $USER $HOSTNAME
