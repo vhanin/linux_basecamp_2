@@ -8,7 +8,7 @@ Running Test # 1 [         check_empty_file]: [32mPassed
 [0mRunning Test # 6 [                 check_rm]: [32mPassed
 [0mRunning Test # 7 [               check_find]: [31mTest #7 is failed!
 [0mRunning Test # 8 [              check_unite]: [32mPassed
-[0mRunning Test # 9 [               check_crop]: [32mPassed
+[0mRunning Test # 9 [               check_crop]: [31mTest #9 is failed!
 [0mRunning Test #10 [     check_error_redirect]: Information wasn't redirected to stderr
 [31mTest #10 is failed!
 [0mRunning Test #11 [                check_tee]: [31mWrong output or its format
@@ -18,5 +18,5 @@ Running Test # 1 [         check_empty_file]: [32mPassed
 Andriy Lytvynenko: Homework #2
 Attempt #1
 [0m[32mPassed
-[0m[96mYour evaluation is finished! You've got 6 from 13 points.
+[0m[96mYour evaluation is finished! You've got 5 from 13 points.
 [0m
